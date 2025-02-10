@@ -1,4 +1,4 @@
-# Linguist: Text Analysis
+# Linguist
 
 Linguist analyses text by calculating a variety of linguistic and structural indicators, such as lexical richness, readability, sentiment, syntactic complexity, and thematic content, to provide comprehensive insights into the text's vocabulary, style, and meaning. It is designed to help users understand the complexity, tone, and key features of a given text.
 
